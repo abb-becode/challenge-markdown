@@ -21,7 +21,7 @@
 * Foot  
 
 ## You can always count on me when  
-I am listening when someone calls me
+I am listening when someone calls me  
 I like to share my knowledge  
 
 ## A funny story
