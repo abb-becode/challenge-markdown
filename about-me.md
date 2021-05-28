@@ -6,11 +6,11 @@
 
 ![my photo](abb-photo.jpg)  
 
-| Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza Yes/No |
-| :--- | :--- | :--- | :--- | :---: |
-| 07/10 | Male | White | All | - [x] |  
+| Birthday | Gender | Favorite color | Favorite food |
+| :--- | :--- | :--- | :--- |
+| 07/10 | Male | White | All |  
 
-- [x] this is a complete item
+- [x] Pinneapple on pizza
 
 
 ## Hobbies  
