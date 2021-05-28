@@ -31,5 +31,5 @@ Coming home from work, I slept on the train and when I woke up I was in the nort
 ### TL;DR
 keep your eyes open all the time  
 
-[<< previous](https://github.com/RayaneLamri/solo-markdown/blob/main/README.md) || [Abdelilah Benghadda](https://github.com/abb-becode/challenge-markdown/blob/main/about-me.md) || [next >>](https://github.com/AdrienLenoir/challenge-markdown/blob/main/README.md) 
+[<< previous](https://github.com/Richardtristan/challenge-markdown.git/README.md) || [Abdelilah Benghadda](https://github.com/abb-becode/challenge-markdown/blob/main/about-me.md) || [next >>](https://github.com/AdrienLenoir/challenge-markdown/blob/main/README.md) 
 
