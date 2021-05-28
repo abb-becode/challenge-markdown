@@ -10,3 +10,10 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 07/10 | Male | White | All | [x] Yes/No |
 
+## Hobbies  
+* Games
+	1. foot
+	2. strategy
+* Internet
+* Foot
+
