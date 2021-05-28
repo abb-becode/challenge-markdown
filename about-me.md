@@ -4,7 +4,7 @@
 >
 >> “The secret of getting ahead is getting started.” – Mark Twain.  
 
-!(D:/becode/workspace/git_courses/abb-photo)  
+![my photo](abb-photo.jpg)  
 
 | Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza |
 | :--- | :--- | :--- | :--- | :--- |
@@ -27,5 +27,5 @@ Coming home from work, I slept on the train and when I woke up I was in the nort
 ### TL;DR
 keep your eyes open all the time  
 
-[<< previous]() [Abdelilah Benghadda](https://github.com/abb-becode/challenge-markdown/blob/main/about-me.md) [next >>](https://github.com/AdrienLenoir/challenge-markdown/blob/main/README.md) 
+[<< previous]() || [Abdelilah Benghadda](https://github.com/abb-becode/challenge-markdown/blob/main/about-me.md) || [next >>](https://github.com/AdrienLenoir/challenge-markdown/blob/main/README.md) 
 
