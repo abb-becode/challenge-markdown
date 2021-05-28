@@ -8,7 +8,7 @@
 
 | Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza |
 | :--- | :--- | :--- | :--- | :--- |
-| 07/10 | Male | White | All | ```<input type="checkbox" id="pinneapple" name="pinneapple" value="">``` Yes/No |
+| 07/10 | Male | White | All | <li>[X]</li> Yes/No |
 
 ## Hobbies  
 * Games
