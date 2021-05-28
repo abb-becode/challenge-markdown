@@ -18,7 +18,8 @@
 	1. foot
 	2. strategy
 * Internet
-* Foot  
+* Foot
+* gardening    
 
 ## You can always count on me when  
 I am listening when someone calls me  
