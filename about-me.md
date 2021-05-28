@@ -8,5 +8,5 @@
 
 | Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza |
 | :--- | :--- | :--- | :--- | :--- |
-| 07/10 | Male | White | All | pizza |
+| 07/10 | Male | White | All | - [ ] Yes/No |
 
